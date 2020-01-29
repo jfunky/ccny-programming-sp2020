@@ -101,4 +101,4 @@ If you are a student with a disability requesting accommodations, please contact
 CCNY also provides [student health](https://www.ccny.cuny.edu/shs) and [counseling services](https://www.ccny.cuny.edu/counseling).
 If you have questions about accommodations or health & wellness services, you can also contact [Suerynn](https://www.ccny.cuny.edu/profiles/suerynn-lee) (Art Advisor) or [Katrice](https://www.ccny.cuny.edu/profiles/katrice-henderson) (Department Admin in the Art Office).
 
-### [Class Schedule]([../blob/master/Schedule.md))
+### [Class Schedule](../blob/master/Schedule.md)
