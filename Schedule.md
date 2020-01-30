@@ -1,6 +1,7 @@
 ## Weekly Schedule
 #### Week 1: 1/29
 * In Class: Introductions, Review Syllabus, Coordinate Systems & Drawing in P5
+    - [Class example](https://editor.p5js.org/jas920/sketches/7hxmC7Bl)
 * Assignment: 
     - **Do:** Draw a face. This can be a self-portrait, a portrait of a friend, a well-known figure, a pet, a cartoon, etc. Submit through the class homework form.
     - **Read:** 
