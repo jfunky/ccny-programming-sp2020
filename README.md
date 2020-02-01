@@ -7,6 +7,7 @@
 #### --
 
 ##### Professor Jasmine Soltani (she/her)
+##### Office hours: Please email me to schedule
 ##### Contact: jsoltani@ccny.cuny.edu
 #### --
 
