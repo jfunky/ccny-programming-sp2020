@@ -15,6 +15,11 @@
 
 #### Week 2: 2/5
 * In Class: Variables, data types, animation, color, debugging
+    - [Declare & initialize variables](https://editor.p5js.org/jas920/sketches/S8dVRGct)
+    - [System variables 1](https://editor.p5js.org/jas920/sketches/hz8F5ZMT)
+    - [System variables 2](https://editor.p5js.org/jas920/sketches/QXq3scxh)
+    - [Varying color](https://editor.p5js.org/jas920/sketches/CIk47JEp)
+    - [Class exercise](https://editor.p5js.org/jas920/sketches/yzT2NNvB)
 * Assignment: 
     - **Do:** Choose an artwork from the [Artist and Computer archive](https://www.atariarchives.org/artist/), and recreate the work using p5.js. Use the work as a template for a P5 sketch but modify it to make it your own. Credit the original artist in your code/documentation with artist name, title of work, and date.
     - **Read:** 
