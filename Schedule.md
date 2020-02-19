@@ -34,6 +34,11 @@
 
 #### Week 3: 2/19
 * In Class: Conditionals, expressions, time, randomness, interaction
+    - [Boolean Conditional](https://editor.p5js.org/jas920/sketches/7bACvn27)
+    - [Bouncing Ball](https://editor.p5js.org/jas920/sketches/KXDVveXq)
+    - [Bouncing Ball with rollover](https://editor.p5js.org/jas920/sketches/n_RV0g2j)
+    - [Button](https://editor.p5js.org/jas920/sketches/zwdlW5kl)
+    - [Keyboard Interaction](https://editor.p5js.org/jas920/sketches/Ozcw3asZ)
 * Assignment: 
     - **Do:** Create a scene where at least one thing is animated and incorporate at least one element of randomness. One element must be controlled by the mouse and one must change over time independently of the mouse. You may build on previous homework or a sketch from class. 
     - **Read:** 
