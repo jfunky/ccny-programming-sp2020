@@ -52,10 +52,10 @@
 
 #### Week 4: 2/26
 * In Class: Loops, arrays, and functions
-    - [Breaking down loops](https://editor.p5js.org/jas920/sketches/3ajzLddF) while & for
+    - [Breaking down loops](https://editor.p5js.org/jas920/sketches/3ajzLddF): while & for
     - [Nested loops](https://editor.p5js.org/jas920/sketches/HpSfvfME)
     - [Array of colors](https://editor.p5js.org/jas920/sketches/JqmSZqBf)
-    - [2/5/2020 class exercise + functions](https://editor.p5js.org/jas920/sketches/DUXIvT1B) defining functions
+    - [2/5/2020 class exercise + functions](https://editor.p5js.org/jas920/sketches/DUXIvT1B): defining functions
 * Assignment: 
     - **Do:** Create an algorithmic design that repeats some piece at least 10 times. Create a mouse or keyboard interface that changes an element of the design.
     - **Read:** 
