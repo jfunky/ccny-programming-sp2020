@@ -54,6 +54,7 @@
 * In Class: Loops, arrays, and functions
     - [Breaking down loops](https://editor.p5js.org/jas920/sketches/3ajzLddF): while & for
     - [Nested loops](https://editor.p5js.org/jas920/sketches/HpSfvfME)
+    - [Interactive checkboard in-class sketch](https://editor.p5js.org/jas920/sketches/HpSfvfME)
     - [Array of colors](https://editor.p5js.org/jas920/sketches/JqmSZqBf)
     - [2/5/2020 class exercise + functions](https://editor.p5js.org/jas920/sketches/DUXIvT1B): defining functions
 * Assignment: 
