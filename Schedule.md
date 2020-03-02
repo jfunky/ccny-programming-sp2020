@@ -51,14 +51,13 @@
     - Additional references: Learning Processing Ch. 3
 
 #### Week 4: 2/26
-* In Class: Loops, arrays, and functions
+* In Class: Loops & arrays
     - [Breaking down loops](https://editor.p5js.org/jas920/sketches/3ajzLddF): while & for
     - [Nested loops](https://editor.p5js.org/jas920/sketches/HpSfvfME)
     - [Interactive checkboard in-class sketch](https://editor.p5js.org/jas920/sketches/HpSfvfME)
     - [Array of colors](https://editor.p5js.org/jas920/sketches/JqmSZqBf)
-    - [2/5/2020 class exercise + functions](https://editor.p5js.org/jas920/sketches/DUXIvT1B): defining functions
 * Assignment: 
-    - **Do:** Create an algorithmic design that repeats some piece at least 10 times. Create a mouse or keyboard interface that changes an element of the design.
+    - **Do:** Create an algorithmic design that repeats some piece at least 10 times. Create a mouse or keyboard interface that changes an element of the design. You may build on a previous homework assignment or sketch from class.
     - **Read:** 
         - Getting Started With p5.js, ch. 9, 11
         - P5.js reference: [Program Flow](https://p5js.org/learn/program-flow.html) sections: Branching, Loops, noLoop(), loop() and redraw()
@@ -66,7 +65,12 @@
     - Additional references: Learning Processing Ch. 6-7
 
 #### Week 5: 3/4
-* In Class: Object-oriented programming, classes
+* In Class: Function, Object-oriented programming, classes
+    - [2/5/2020 class exercise + functions](https://editor.p5js.org/jas920/sketches/DUXIvT1B): defining functions
+    - [Simple gravity example](https://editor.p5js.org/jas920/sketches/ugeSwe01)
+    - [Bouncing Ball starter code](https://editor.p5js.org/jas920/sketches/an73SZHp)
+    - [Bouncing Ball functions](https://editor.p5js.org/jas920/sketches/F260rIsI)
+    - [Bouncing Ball classes](https://editor.p5js.org/jas920/sketches/tLNVnCxz)
 * Assignment: 
     - **Do:** Re-organize a sketch from a previous week in an object-oriented way. Break out code from setup & draw into functions. Take groups of variables and create objects. Make the code as clean as possible.
     - **Read:** Note that Ch. 10 of Getting Started with P5.js is outdated!
