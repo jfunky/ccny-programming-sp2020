@@ -83,6 +83,11 @@
 
 #### Week 6: 3/11
 * In Class: Motion, translate, rotate, scale
+    - [Sine Wave](https://editor.p5js.org/jas920/sketches/rd9m93n4)
+    - [Circular Motion](https://editor.p5js.org/jas920/sketches/JUQW0sRX)
+    - [Translate & Rotate](https://editor.p5js.org/jas920/sketches/xaZdex7m)
+    - [Translate & Scale](https://editor.p5js.org/jas920/sketches/x30M_3Q_)
+    - [Exercise: Rotation with classes](https://editor.p5js.org/jas920/sketches/XKUs8uNW)
 * Assignment: 
     - **Do:** Midterm
     - **Read:** Getting Started with p5.js, ch. 6, 8
