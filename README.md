@@ -92,8 +92,8 @@ P5.js has an active community with examples, projects, and references documented
         - The goals and motivation for the project you made
         - Creative choices that distinguish your piece, and reflect your own point of view/voice
         - An explanation of how your code works and challenges
-        - Code should be submitted in an appropriate format as well as commented, formatted, and syntactically correct
-        - Talking or being on your laptop/cell phone while a classmate is presenting will affect YOUR grade
+        - Code should be submitted in an appropriate format, as well as commented, organized and syntactically correct
+        - Talking or being on your laptop/cell phone while a classmate is presenting will affect YOUR final grade
 
 #### Academic Accomodations
 If you are a student with a disability requesting accommodations, please contact [The AccessAbility Center/Student Disability Services (AAC/SDS)](https://www.ccny.cuny.edu/accessability). For more information, included here are links to [examples of academic adjustments and auxiliary aids](https://www.ccny.cuny.edu/accessability/academic-adjustments-auxiliary-aids), information about [registering with AAC/SDS](https://www.ccny.cuny.edu/accessability/register), and [forms](https://www.ccny.cuny.edu/accessability/forms). 
