@@ -88,6 +88,7 @@
     - [Translate & Rotate](https://editor.p5js.org/jas920/sketches/xaZdex7m)
     - [Translate & Scale](https://editor.p5js.org/jas920/sketches/x30M_3Q_)
     - [Exercise: Rotation with classes](https://editor.p5js.org/jas920/sketches/XKUs8uNW)
+    - [Array of Planets example](https://editor.p5js.org/jas920/sketches/MjKOfQTj)
 * Assignment: 
     - **Do:** Midterm
     - **Read:** Getting Started with p5.js, ch. 6, 8
