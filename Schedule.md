@@ -27,7 +27,10 @@
         - P5.js reference: [Color](https://p5js.org/learn/color.html)
         - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
         - P5.js reference: [Debugging](https://p5js.org/learn/debugging.html)
-    - **Watch:** The Coding Train [Variables](https://thecodingtrain.com/Tutorials/2-variables/) tutorial
+    - **Watch:** The Coding Train Variables tutorials:
+        -[Part 1](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+        -[Part 2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+        -[Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
     - Additional references: Learning Processing Ch. 4-5
 
 #### 2/12: NO CLASS 
@@ -47,7 +50,10 @@
     - **Read:** 
         - Getting Started with P5.js ch.5
         - P5.js reference: [Interactivity](https://p5js.org/learn/interactivity.html)
-    - **Watch:** The Coding Train [Conditionals](https://thecodingtrain.com/Tutorials/3-conditionals/) Tutorials
+    - **Watch:** The Coding Train: Conditionals tutorials 
+        - [Part 1](https://www.youtube.com/watch?v=1Osb_iGDdjk)
+        - [Part 2](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+        - [Part 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
     - Additional references: Learning Processing Ch. 3
 
 #### Week 4: 2/26
@@ -61,7 +67,12 @@
     - **Read:** 
         - Getting Started With p5.js, ch. 9, 11
         - P5.js reference: [Program Flow](https://p5js.org/learn/program-flow.html) sections: Branching, Loops, noLoop(), loop() and redraw()
-    - **Watch:** The Coding Train [Loops](https://thecodingtrain.com/Tutorials/4-loops/) and [Functions](https://thecodingtrain.com/Tutorials/5-functions/) tutorials
+    - **Watch:** The Coding Train Loops & Functions tutorials:
+        - [Loops Part 1](https://www.youtube.com/watch?v=cnRD9o6odjk)
+        - [Loops Part 2](https://www.youtube.com/watch?v=1c1_TMdf8b8&t=158s) 
+        - [Functions Part 1](https://www.youtube.com/watch?v=wRHAitGzBrg)
+        - [Functions Part 2](https://www.youtube.com/watch?v=zkc417YapfE)
+        - [Functions Part 3](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
     - Additional references: Learning Processing Ch. 6-7
 
 #### Week 5: 3/4
@@ -98,20 +109,25 @@
     - Additional references: Learning Processing Ch. 13-14
 
 #### Week 7: 3/18
-* In Class: Text & Media: Images, Video, Sound/Workshop
+* Week-long adjustment to virtual classes
+* Assignment: 
+    - Take care of yourself & pay attention to communication channels for updates. 
+    - Catch up on any missing assignments or brainstorm midterm project ideas.
+
+#### Week 8: 3/25
+* Virtual: Objects review, Text & Media: Images, Video, Sound
 * Assignment: 
     - **Do:** Midterm
     - **Read:** Getting Started with p5.js, ch. 7 
     - **Watch:** The Coding Train [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
     - Additional references: Learning Processing Ch. 15.1-15.2, 16.1, 17
-
-#### Week 8: 3/25
-* In Class: Midterm presentations
+ 
+#### Week 9: 4/1
+* Virtual: Midterm presentations
 * No homework
 
-
-#### Week 9: 4/1
-* In Class: P5 & The web--P5 DOM, HTML Elements, CSS, DOM events, callbacks
+#### Week 10: 4/7: THIS IS A TUESDAY
+* Virtual: P5 & The web--P5 DOM, HTML Elements, CSS, DOM events, callbacks
 * Assignment: 
     - **Do:** Create a new P5 sketch that include interaction of a button, text input, or slider.
     - **Read:** 
@@ -121,8 +137,10 @@
     - Additional references: 
         - Mozilla [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
         - Mozilla [CSS reference](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    
+#### NO CLASS 4/15
 
-#### Week 10: 4/7: THIS IS A TUESDAY
+#### Week 11: 4/22
 * In Class: Image processing with a webcam, sound processing with the mic
 * Assignment: 
     - **Do:** Create a new P5 sketch or build on an old sketch where the interaction is based on input from the microphone or webcam.
@@ -134,10 +152,8 @@
         - Learning Processing Ch. 15-16, 20
         - [P5 Sound Library](https://p5js.org/reference/#/libraries/p5.sound)
         - [P5 Media Element](https://p5js.org/reference/#/p5.MediaElement)
-    
-#### NO CLASS 4/15
 
-#### Week 11: 4/22
+#### Week 12: 4/29
 * In Class: Data & APIs
 * Assignment: 
     - **Do:** Create a P5 sketch that visualizes or sonifies data using data from a CSV/JSON file you create or an API.
@@ -147,19 +163,15 @@
     - **Watch:** The Coding Train [Working with Data](https://thecodingtrain.com/Tutorials/10-working-with-data/) tutorials
     - Additional references: Learning Processing Ch. 18
 
-#### Week 12: 4/29
+#### Week 13: 5/6
 * In Class: P5 & Javascript libraries
 * Assignment: 
     - Final project proposal: Explain your project with context and references
     - Review the [P5 libraries](https://p5js.org/libraries/) site, [Global & Instance](https://github.com/processing/p5.js/wiki/Global-and-instance-mode) Mode
 
-#### Week 13: 5/6
-* In Class: Final proposals & Special topic
-* Assignment:Work on final
-
 #### Week 14: 5/13
-* In Class: Special topic & in-class workshop
+* Virtual: Special topic
 * Assignment: Work on final
 
 #### Week 15: 5/20
-* In Class: Final project presentations
+* Virtual: Final project presentations
