@@ -3,7 +3,7 @@
 ##### Electronic Design and Multimedia Art
 ##### Spring 2020
 ##### Wednesdays 6:15-9:05pm 
-##### Comp Goeth CG121
+##### Comp Goeth CG121 / Zoom (updated)
 #### --
 
 ##### Professor Jasmine Soltani (she/her)
@@ -26,11 +26,10 @@ This course is an introduction to computer programming for art and design, appro
 * Present and discuss their work. 
 * Critically engage with their own work as well as other students, giving thoughtful and appropriate feedback.
 
-#### Course Structure 
+#### Course Structure (updated)
 * Discussion/Crit: Presentation of assignments, questions
-* 15 minute break
 * Lecture: Technical concepts presented in class
-* Workshop: In-class exercises
+* Workshop: In-class exercises / Individual meeting times
 
 #### How to share 
 * Sharing and borrowing code is a normal part of programming. You will learn that you can find solutions to problems, examples, and techniques online. You may want to build off of a project you find, or work a classmate has done. 
@@ -42,10 +41,12 @@ If you are incorporating code you found online into a project, you must cite the
 * Clearly describe what you want to happen, and what is happening instead.
 * Give enough information in order for someone to recreate the problem.
 * Ideally, give a link to the code itself.
+* Utilize the slack to get feedback from others in class!
 
-### Homework submission
+### Homework submission (updated)
 * Submit your homework via this [google form](https://docs.google.com/forms/d/e/1FAIpQLSe4D4Ud3hiLtZVBhaY6gwD7V3mZjl6HlQyKi7WqB6oVEAQScQ/viewform).
 * It's acceptable to use the [P5 web editor](https://editor.p5js.org/) for all assignments in this class.
+* If you miss the class where a homework is discussed/reviewed, please post it to the slack for feedback.
     
 #### Readings 
 P5.js has an active community with examples, projects, and references documented extensively online. Everything you need to know to pass the course will be presented in class, with open-source references linked whenever possible. Still, I think the following text (in digital or print format) is an invaluable supplement to the class. Corresponding chapters will be noted for the appropriate week.
@@ -63,6 +64,7 @@ P5.js has an active community with examples, projects, and references documented
 ### Grade Breakdown:
 * Weekly homework assignments: 40%
     - There will be weekly homework assignments consisting of coding & review of material (text, examples, video). Homework should be completed before class so we can discuss it on the day it’s due. See the schedule for assignments and due dates.
+    - You have until the end of the course to submit homework for late credit. (updated)
     - There are eight coding assignments each worth 10% of your homework grade or 5% of your overall grade.
     - This rubric will be used for grading projects:
         - A: Project exceeded technical expectations with additional creative effort and experimentation from the student to make it unique (not just a tech demo)
@@ -71,29 +73,27 @@ P5.js has an active community with examples, projects, and references documented
         - D: Substandard, incomplete, or very late
         - 0: Assignment not turned in
 * Engagement: 25%
-     - There will be a lot of ways to show you are engaging with the material from class and your classmates:
+    - There will be a lot of ways to show you are engaging with the material from class and your classmates, during class sessions or on slack (updated):
     - Participate in class discussions
     - Help your fellow classmates and give feedback
     - Ask and answer questions
     - Never use your cell phone or laptop while your classmates are presenting work
-    - **Attendance**: Please email me if you will be absent or late to class before the start of the class. More than one uncommunicated lateness of 10+ minutes will affect your Engagement grade in the course. One uncommunicated absence will halve your Engagement grade. Two will result in an Engagement grade of zero.
-* Midterm Project (due March 25): 10%
-    - The midterm project will be an opportunity to apply concepts from the first half of the course to create a self-defined project. It must be an interactive program that includes appropriate use of objects and functions. It will also include a short presentation on the due date, with feedback from the class.
-    - Presentations should be 5 minutes to allow for 5 minutes of feedback, for a total of 10 minutes. Your presentation should include:
+    - **Attendance**: Please email me if you will be absent or late to class *before* the start of the class. Your progress in class depends on our ability to communicate when you must miss a class session. Zoom classes will be recorded so that students not present during class time can refer to the lesson later. Links will be posted to slack. (updated)
+* Midterm Project (due March 25): 10% (updated)
+    - The midterm project will be an opportunity to apply concepts from the first half of the course to create a self-defined project. It must be an interactive program that includes appropriate use of objects and functions. Projects will be presented virtually via Zoom, similar to how we have reviewed class homework all semester. If you cannot present, you can post the description of your project to slack and discussion will take place there.
+    - Presentations will be a 10-minute long discussion of the work you made. There will be 5 minutes for you to describe your project followed by 5 minutes of feedback from the class. Please include:
         - The goals and motivation for the project you made
         - Creative choices that distinguish your piece, and reflect your own point of view/voice
         - An explanation of how your code works and challenges
         - Code should be commented, formatted, and syntactically correct
-        - Talking or being on your laptop/cell phone while a classmate is presenting will affect YOUR midterm grade
-* Final Project (due May 20): 25%
-    - The final project will be an opportunity to conceptualize and complete an engaging project that demonstrates your ability to apply the technical material of the course. You may P5 and/or other libraries.
-    - 5% of your grade will be an assessment of your project proposal and planning that allows you to bring your project to completion.
-    - Presentations should be 5 minutes to allow for 5 minutes of feedback, for a total of 10 minutes. Your presentation should include:
+* Final Project (due May 20): 25% (updated)
+    - The final project will be an opportunity to conceptualize and complete an engaging project that demonstrates your ability to apply the technical material of the course. You may use P5 and/or other libraries. Projects will be presented virtually via Zoom, similar to how we have reviewed class homework all semester. If you cannot present, you can post the description of your project to slack and discussion will take place there.
+    - 5% of your grade will be an assessment of your project proposal and planning that allows you to bring your project to completion. 
+    - Presentations will be a 10-minute long discussion of the work you made. There will be 5 minutes for you to describe your project followed by 5 minutes of feedback from the class. Please include:
         - The goals and motivation for the project you made
         - Creative choices that distinguish your piece, and reflect your own point of view/voice
         - An explanation of how your code works and challenges
         - Code should be submitted in an appropriate format, as well as commented, organized and syntactically correct
-        - Talking or being on your laptop/cell phone while a classmate is presenting will affect YOUR final grade
 
 #### Academic Accomodations
 If you are a student with a disability requesting accommodations, please contact [The AccessAbility Center/Student Disability Services (AAC/SDS)](https://www.ccny.cuny.edu/accessability). For more information, included here are links to [examples of academic adjustments and auxiliary aids](https://www.ccny.cuny.edu/accessability/academic-adjustments-auxiliary-aids), information about [registering with AAC/SDS](https://www.ccny.cuny.edu/accessability/register), and [forms](https://www.ccny.cuny.edu/accessability/forms). 
