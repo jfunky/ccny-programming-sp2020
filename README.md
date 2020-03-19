@@ -27,9 +27,9 @@ This course is an introduction to computer programming for art and design, appro
 * Critically engage with their own work as well as other students, giving thoughtful and appropriate feedback.
 
 #### Course Structure (updated)
-* Discussion/Crit: Presentation of assignments, questions
-* Lecture: Technical concepts presented in class
-* Workshop: In-class exercises / Individual meeting times
+* Discussion/Crit: Presentation of assignments, questions (on Zoom)
+* Lecture: Technical concepts presented in class (on Zoom)
+* Workshop: Individual exercises / Individual meeting times (on Zoom)
 
 #### How to share 
 * Sharing and borrowing code is a normal part of programming. You will learn that you can find solutions to problems, examples, and techniques online. You may want to build off of a project you find, or work a classmate has done. 
@@ -41,12 +41,12 @@ If you are incorporating code you found online into a project, you must cite the
 * Clearly describe what you want to happen, and what is happening instead.
 * Give enough information in order for someone to recreate the problem.
 * Ideally, give a link to the code itself.
-* Utilize the slack to get feedback from others in class!
+* Utilize the slack to get feedback from others in class! (updated)
 
 ### Homework submission (updated)
 * Submit your homework via this [google form](https://docs.google.com/forms/d/e/1FAIpQLSe4D4Ud3hiLtZVBhaY6gwD7V3mZjl6HlQyKi7WqB6oVEAQScQ/viewform).
 * It's acceptable to use the [P5 web editor](https://editor.p5js.org/) for all assignments in this class.
-* If you miss the class where a homework is discussed/reviewed, please post it to the slack for feedback.
+* If you miss the class where a homework is discussed/reviewed, please post a link to the slack for feedback.
     
 #### Readings 
 P5.js has an active community with examples, projects, and references documented extensively online. Everything you need to know to pass the course will be presented in class, with open-source references linked whenever possible. Still, I think the following text (in digital or print format) is an invaluable supplement to the class. Corresponding chapters will be noted for the appropriate week.
@@ -78,7 +78,7 @@ P5.js has an active community with examples, projects, and references documented
     - Help your fellow classmates and give feedback
     - Ask and answer questions
     - **Attendance**: Please email me if you will be absent or late to class *before* the start of the class. Your progress in class depends on our ability to communicate when you must miss a class session. Zoom classes will be recorded so that students not present during class time can refer to the lesson later. Links will be posted to slack. (updated)
-* Midterm Project (due March 25): 10% (updated)
+* Midterm Project (due April 1): 10% (updated)
     - The midterm project will be an opportunity to apply concepts from the first half of the course to create a self-defined project. It must be an interactive program that includes appropriate use of objects and functions. Projects will be presented virtually via Zoom, similar to how we have reviewed class homework all semester. If you cannot present, you can post the description of your project to slack and discussion will take place there.
     - Presentations will be a 10-minute long discussion of the work you made. There will be 5 minutes for you to describe your project followed by 5 minutes of feedback from the class. Please include:
         - The goals and motivation for the project you made
