@@ -77,7 +77,6 @@ P5.js has an active community with examples, projects, and references documented
     - Participate in class discussions
     - Help your fellow classmates and give feedback
     - Ask and answer questions
-    - Never use your cell phone or laptop while your classmates are presenting work
     - **Attendance**: Please email me if you will be absent or late to class *before* the start of the class. Your progress in class depends on our ability to communicate when you must miss a class session. Zoom classes will be recorded so that students not present during class time can refer to the lesson later. Links will be posted to slack. (updated)
 * Midterm Project (due March 25): 10% (updated)
     - The midterm project will be an opportunity to apply concepts from the first half of the course to create a self-defined project. It must be an interactive program that includes appropriate use of objects and functions. Projects will be presented virtually via Zoom, similar to how we have reviewed class homework all semester. If you cannot present, you can post the description of your project to slack and discussion will take place there.
