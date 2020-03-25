@@ -87,9 +87,11 @@
     - **Read:** Note that Ch. 10 of Getting Started with P5.js is outdated!
     - **Watch:** 
         - The Coding Train [Object Oriented Programming](https://www.youtube.com/watch?v=xG2Vbnv0wvg&feature=youtu.be),
-        - [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w) 
-        - [Constructors](https://www.youtube.com/watch?v=rHiSsgFRgx4), and 
-        - [Object Interaction](https://thecodingtrain.com/Tutorials/7-object-interaction/) tutorials
+        - [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w),
+        - [Constructors](https://www.youtube.com/watch?v=rHiSsgFRgx4), 
+        - Object Interaction [Part 1](https://www.youtube.com/watch?v=W1-ej3Wu5zg) & [Part 2](https://www.youtube.com/watch?v=5Q9cA0REztY)
+        - [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58&t=757s) &
+        - [Mouse Interaction](https://www.youtube.com/watch?v=TaN5At5RWH8&t=621s) tutorials
     - Additional references: Learning Processing Ch. 8-10
 
 #### Week 6: 3/11
