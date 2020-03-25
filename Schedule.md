@@ -118,6 +118,14 @@
 
 #### Week 8: 3/25
 * Virtual: Objects review, Text & Media: Images, Video, Sound
+    - [Load Image](https://editor.p5js.org/jas920/sketches/3u2q522mR)
+    - [Image & Sound](https://editor.p5js.org/jas920/sketches/fcOtoOsW5)
+    - [Load Video](https://editor.p5js.org/jas920/sketches/o4cIPnkHh)
+    - [Text](https://editor.p5js.org/jas920/sketches/7_ZjLQ4Gb)
+    - [Arc Text](https://editor.p5js.org/jas920/sketches/lxWF0Hhaz)
+    - [Painter](https://editor.p5js.org/jas920/sketches/evOENY_cc)
+    - [Painter with objects](https://editor.p5js.org/jas920/sketches/KiJh2FIx7)
+    - [Painter with objects and images](https://editor.p5js.org/jas920/sketches/ucQAJCaKS)
 * Assignment: 
     - **Do:** Midterm
     - **Read:** Getting Started with p5.js, ch. 7 
