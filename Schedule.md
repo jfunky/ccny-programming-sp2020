@@ -133,10 +133,13 @@
     - Additional references: Learning Processing Ch. 15.1-15.2, 16.1, 17
  
 #### Week 9: 4/1
-* Virtual: Midterm presentations
-* No homework
+* Paused again! Please feel free to email/chat me to meet or talk.
 
 #### Week 10: 4/7: THIS IS A TUESDAY
+* Virtual: Midterm presentations
+* No homework
+    
+#### Week 10: 4/15
 * Virtual: P5 & The web--P5 DOM, HTML Elements, CSS, DOM events, callbacks
 * Assignment: 
     - **Do:** Create a new P5 sketch that include interaction of a button, text input, or slider.
@@ -147,8 +150,6 @@
     - Additional references: 
         - Mozilla [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
         - Mozilla [CSS reference](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-    
-#### NO CLASS 4/15
 
 #### Week 11: 4/22
 * In Class: Image processing with a webcam, sound processing with the mic
