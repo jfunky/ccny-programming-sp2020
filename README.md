@@ -29,6 +29,7 @@ This course is an introduction to computer programming for art and design, appro
 #### Course Structure (updated)
 * Discussion/Crit: Presentation of assignments, questions (on Zoom)
 * Lecture: Technical concepts presented in class (on Zoom), recorded for later viewing
+    - Remember that nearly all of the content for the class is already available in text and/or video form and posted to the class schedule. Please refer to the weekly content linked there if you cannot make it to a zoom session. No one will be penalized for missing a zoom session, but please review the content at your own pace and ask me questions.
 * Workshop: Individual exercises / Individual meeting times (on Zoom or Google Hangouts)
 
 #### How to share 
