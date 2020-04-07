@@ -28,8 +28,8 @@ This course is an introduction to computer programming for art and design, appro
 
 #### Course Structure (updated)
 * Discussion/Crit: Presentation of assignments, questions (on Zoom)
-* Lecture: Technical concepts presented in class (on Zoom)
-* Workshop: Individual exercises / Individual meeting times (on Zoom)
+* Lecture: Technical concepts presented in class (on Zoom), recorded for later viewing
+* Workshop: Individual exercises / Individual meeting times (on Zoom or Google Hangouts)
 
 #### How to share 
 * Sharing and borrowing code is a normal part of programming. You will learn that you can find solutions to problems, examples, and techniques online. You may want to build off of a project you find, or work a classmate has done. 
@@ -46,7 +46,7 @@ If you are incorporating code you found online into a project, you must cite the
 ### Homework submission (updated)
 * Submit your homework via this [google form](https://docs.google.com/forms/d/e/1FAIpQLSe4D4Ud3hiLtZVBhaY6gwD7V3mZjl6HlQyKi7WqB6oVEAQScQ/viewform).
 * It's acceptable to use the [P5 web editor](https://editor.p5js.org/) for all assignments in this class.
-* If you miss the class where a homework is discussed/reviewed, please post a link to the slack for feedback.
+* If you cannot be present when homework for the week is discussed/reviewed (class meeting time), please post a link to the slack for feedback.
     
 #### Readings 
 P5.js has an active community with examples, projects, and references documented extensively online. Everything you need to know to pass the course will be presented in class, with open-source references linked whenever possible. Still, I think the following text (in digital or print format) is an invaluable supplement to the class. Corresponding chapters will be noted for the appropriate week.
@@ -77,7 +77,7 @@ P5.js has an active community with examples, projects, and references documented
     - Participate in class discussions
     - Help your fellow classmates and give feedback
     - Ask and answer questions
-    - **Attendance**: Please email me if you will be absent or late to class *before* the start of the class. Your progress in class depends on our ability to communicate when you must miss a class session. Zoom classes will be recorded so that students not present during class time can refer to the lesson later. Links will be posted to slack. (updated)
+    - **Attendance**: Zoom classes will be recorded so that students not present during class time can refer to the lesson later. Links will be posted to slack. No one will be penalized for missing or being late to the zoom discussions that replace our class meeting time (updated). Please review the material for the week at your own pace and let me know if you have questions.
 * Midterm Project (due April 1): 10% (updated)
     - The midterm project will be an opportunity to apply concepts from the first half of the course to create a self-defined project. It must be an interactive program that includes appropriate use of objects and functions. Projects will be presented virtually via Zoom, similar to how we have reviewed class homework all semester. If you cannot present, you can post the description of your project to slack and discussion will take place there.
     - Presentations will be a 10-minute long discussion of the work you made. There will be 5 minutes for you to describe your project followed by 5 minutes of feedback from the class. Please include:
