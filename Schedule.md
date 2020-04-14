@@ -141,6 +141,7 @@
     
 #### Week 10: 4/15
 * Virtual: P5 & The web--P5 DOM, HTML Elements, CSS, DOM events, callbacks
+    - [HTML](https://editor.p5js.org/jas920/sketches/MAoss61NF)
     - [Button & slider](https://editor.p5js.org/jas920/sketches/yH901F4dg)
     - [Text Input](https://editor.p5js.org/jas920/sketches/0k321W_1w)
     - [Sound & DOM](https://editor.p5js.org/jas920/sketches/DiZUV8TiG)
@@ -151,6 +152,7 @@
         - [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
     - **Watch:** The Coding Train [HTML/CSS/DOM tutorials](https://thecodingtrain.com/Tutorials/8-html-css-dom/)
     - Additional references: 
+        - P5 reference: [p5.Element](https://p5js.org/reference/#/p5.Element)
         - Mozilla [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
         - Mozilla [CSS reference](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
