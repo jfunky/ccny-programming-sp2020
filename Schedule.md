@@ -141,6 +141,9 @@
     
 #### Week 10: 4/15
 * Virtual: P5 & The web--P5 DOM, HTML Elements, CSS, DOM events, callbacks
+    - [Button & slider](https://editor.p5js.org/jas920/sketches/yH901F4dg)
+    - [Text Input](https://editor.p5js.org/jas920/sketches/0k321W_1w)
+    - [Sound & DOM](https://editor.p5js.org/jas920/sketches/DiZUV8TiG)
 * Assignment: 
     - **Do:** Create a new P5 sketch that include interaction of a button, text input, or slider.
     - **Read:** 
