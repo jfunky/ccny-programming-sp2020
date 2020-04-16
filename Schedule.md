@@ -132,10 +132,10 @@
     - **Watch:** The Coding Train [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
     - Additional references: Learning Processing Ch. 15.1-15.2, 16.1, 17
  
-#### Week 9: 4/1
+#### Week ???: 4/1
 * Paused again! Please feel free to email/chat me to meet or talk.
 
-#### Week 10: 4/7: THIS IS A TUESDAY
+#### Week 9: 4/7: THIS IS A TUESDAY
 * Virtual: Midterm presentations
 * No homework
     
