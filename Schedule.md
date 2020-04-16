@@ -145,6 +145,7 @@
     - [Button & slider](https://editor.p5js.org/jas920/sketches/yH901F4dg)
     - [Text Input](https://editor.p5js.org/jas920/sketches/0k321W_1w)
     - [Sound & DOM](https://editor.p5js.org/jas920/sketches/DiZUV8TiG)
+    - [Example using Derek's Ping Pong Midterm](https://editor.p5js.org/jas920/sketches/N1b23yymH)
 * Assignment: 
     - **Do:** Create a new P5 sketch that include interaction of a button, text input, or slider.
     - **Read:** 
