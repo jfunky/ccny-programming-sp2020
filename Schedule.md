@@ -159,6 +159,15 @@
 
 #### Week 11: 4/22
 * In Class: Image processing with a webcam, sound processing with the mic
+    - [Video input](https://editor.p5js.org/jas920/sketches/idm50l1oN)
+    - [Simple photo booth](https://editor.p5js.org/jas920/sketches/n-ewkeGxiH)
+    - [Pixels](https://editor.p5js.org/jas920/sketches/E74kunq_A)
+    - [Image pixels](https://editor.p5js.org/jas920/sketches/W34lMWUj_)
+    - [Image pixels with a callback](https://editor.p5js.org/jas920/sketches/RgeXtCddB)
+    - [Pixelation](https://editor.p5js.org/jas920/sketches/cRZuLm-Gi)
+    - [Color averaging](https://editor.p5js.org/jas920/sketches/C06aARJyz)
+    - [Sound file methods](https://editor.p5js.org/jas920/sketches/p2xq89sYJ)
+    - [Sound analysis](https://editor.p5js.org/jas920/sketches/HVoG6CDda)
 * Assignment: 
     - **Do:** Create a new P5 sketch or build on an old sketch where the interaction is based on input from the microphone or webcam.
     - **Read:** [Working with Video tutorial](https://creative-coding.decontextualize.com/video/)
