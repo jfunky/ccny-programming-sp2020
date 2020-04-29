@@ -181,23 +181,26 @@
 
 #### Week 12: 4/29
 * In Class: Data & APIs
+    - [Loading CSV/JSON](https://editor.p5js.org/jas920/present/_TKsaoHoM)
+    - [Giphy API](https://editor.p5js.org/jas920/sketches/yNnSfyrQx)
+    - [NYTimes API](https://editor.p5js.org/jas920/sketches/Sp99rna_J)
 * Assignment: 
     - **Do:** Create a P5 sketch that visualizes or sonifies data using data from a CSV/JSON file you create or an API.
     - **Read:** 
         - Make: Getting Started with P5.js Ch. 12
         - [Loading External Files](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON) 
     - **Watch:** The Coding Train [Working with Data](https://thecodingtrain.com/Tutorials/10-working-with-data/) tutorials
-    - Additional references: Learning Processing Ch. 18
+    - Additional references: Learning Processing Ch. 18, [Loading external files tutorial](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON), [JSON parser/s](https://jsonparseronline.com/), [JSON formatter/s](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
 #### Week 13: 5/6
-* In Class: P5 & Javascript libraries
+* In Class: P5 & Javascript libraries + Individual meetings
 * Assignment: 
-    - Final project proposal: Explain your project with context and references
+    - Final project idea: Post 1-2 sentences about your project idea with at least 1 art reference to slack. Work on final.
     - Review the [P5 libraries](https://p5js.org/libraries/) site, [Global & Instance](https://github.com/processing/p5.js/wiki/Global-and-instance-mode) Mode
 
 #### Week 14: 5/13
-* Virtual: Special topic
+* Virtual: WEBGL/ML5 + Individual meetings
 * Assignment: Work on final
 
 #### Week 15: 5/20
-* Virtual: Final project presentations
+* Virtual: Final project presentations & feedback
