@@ -196,6 +196,7 @@
 * In Class: P5 & Javascript libraries + Individual meetings
 * Assignment: 
     - Final project idea: Post 1-2 sentences about your project idea with at least 1 art reference to slack. Work on final.
+        - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTwFzvGkXdSQlWjIuh3Ix9eD738fOTKR6D0rOdXP7Zi2qtMX1AE_yvTSUrSoIRdCPKY-Ee6QAvax_CF/pub?start=false&loop=false&delayms=3000)
     - Review:  
         - [P5 libraries](https://p5js.org/libraries/) site
         - [Global & Instance Mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode)
@@ -217,7 +218,7 @@
         - [AI rainbows with Runway and p5.js](https://www.youtube.com/watch?v=vEetoBuHj8g)
         - [Anatomy of AI](https://anatomyof.ai/) by Kate Crawford & Vladan Joler
         - [ML5.js + PoseNet example](https://editor.p5js.org/jas920/sketches/uNKZd9zRk)
-        - [ML5.js + Image classification example(https://editor.p5js.org/jas920/sketches/YFyF_JTRN)
+        - [ML5.js + Image classification example](https://editor.p5js.org/jas920/sketches/YFyF_JTRN)
 * Assignment: Work on final
 
 #### Week 15: 5/20
