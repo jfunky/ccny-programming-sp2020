@@ -196,10 +196,28 @@
 * In Class: P5 & Javascript libraries + Individual meetings
 * Assignment: 
     - Final project idea: Post 1-2 sentences about your project idea with at least 1 art reference to slack. Work on final.
-    - Review the [P5 libraries](https://p5js.org/libraries/) site, [Global & Instance](https://github.com/processing/p5.js/wiki/Global-and-instance-mode) Mode
+    - Review:  
+        - [P5 libraries](https://p5js.org/libraries/) site
+        - [Global & Instance Mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode)
+        - [Local server](https://github.com/processing/p5.js/wiki/Local-server)
 
 #### Week 14: 5/13
 * Virtual: WEBGL/ML5 + Individual meetings
+    - WEBGL references:
+        - [Getting Started with WEBGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
+        - [Game developer's guide to graphical projections](https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d)
+        - [Three.js: Creating a scene](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+        - [WEBGL basic example](https://editor.p5js.org/jas920/sketches/Aqk4sggHa)
+        - [WEBGL materials & lights](https://editor.p5js.org/jas920/sketches/BTW3dEXQq)
+        - [WEBGL cameras](https://editor.p5js.org/jas920/sketches/zwgCH1giD)
+        - [WEBGL loading objects](https://editor.p5js.org/jas920/sketches/X6LJyw36I)
+        - [WEBGL capture texture](https://editor.p5js.org/jas920/sketches/Xq3a-W4iw)
+    - Machine learning references: 
+        - [A beginner's guide to machine learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&feature=youtu.be&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+        - [AI rainbows with Runway and p5.js](https://www.youtube.com/watch?v=vEetoBuHj8g)
+        - [Anatomy of AI](https://anatomyof.ai/) by Kate Crawford & Vladan Joler
+        - [ML5.js + PoseNet example](https://editor.p5js.org/jas920/sketches/uNKZd9zRk)
+        - [ML5.js + Image classification example(https://editor.p5js.org/jas920/sketches/YFyF_JTRN)
 * Assignment: Work on final
 
 #### Week 15: 5/20
