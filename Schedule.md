@@ -206,6 +206,7 @@
 * Virtual: WEBGL/ML5 + Individual meetings
     - WEBGL references:
         - [Getting Started with WEBGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
+        - [The Coding Train WEBGL playlist](https://thecodingtrain.com/Tutorials/18-webgl/index.html)
         - [Game developer's guide to graphical projections](https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d)
         - [Three.js: Creating a scene](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
         - [WEBGL basic example](https://editor.p5js.org/jas920/sketches/Aqk4sggHa)
